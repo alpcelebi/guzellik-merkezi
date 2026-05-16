@@ -1,0 +1,9 @@
+export { Hero } from "./Hero";
+export { FeaturedServices } from "./FeaturedServices";
+export { WhyUs } from "./WhyUs";
+export { Pricing } from "./Pricing";
+export { GalleryPreview } from "./GalleryPreview";
+export { Team } from "./Team";
+export { Testimonials } from "./Testimonials";
+export { FAQ } from "./FAQ";
+export { ContactCTA } from "./ContactCTA";
